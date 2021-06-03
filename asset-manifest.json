@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6f16ab1a.chunk.css",
+    "main.js": "/static/js/main.a37eda49.chunk.js",
+    "main.js.map": "/static/js/main.a37eda49.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.199eca4e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.199eca4e.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.c66c60d0.chunk.js": "/static/js/2.c66c60d0.chunk.js",
+    "static/js/2.c66c60d0.chunk.js.map": "/static/js/2.c66c60d0.chunk.js.map",
+    "static/js/3.10958c9e.chunk.js": "/static/js/3.10958c9e.chunk.js",
+    "static/js/3.10958c9e.chunk.js.map": "/static/js/3.10958c9e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.6f16ab1a.chunk.css.map": "/static/css/main.6f16ab1a.chunk.css.map",
+    "static/js/2.c66c60d0.chunk.js.LICENSE.txt": "/static/js/2.c66c60d0.chunk.js.LICENSE.txt",
+    "static/media/Gallery.css": "/static/media/4.9792b913.jpg",
+    "static/media/Login.css": "/static/media/image.ac2f0721.jpg",
+    "static/media/signup.css": "/static/media/wp2915668-dark-nature-wallpapers.7d58d40d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.199eca4e.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.c66c60d0.chunk.js",
+    "static/css/main.6f16ab1a.chunk.css",
+    "static/js/main.a37eda49.chunk.js"
+  ]
+}
